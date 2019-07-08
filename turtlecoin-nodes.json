@@ -391,6 +391,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Roal's Node",
+      "url": "94.130.181.32",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
